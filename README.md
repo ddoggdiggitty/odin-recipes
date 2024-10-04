@@ -1,4 +1,4 @@
-#Odin Recipes
+# Odin Recipes
 This repository (will contain) contains a basic website with links to recipes. The purpose of writing this website
 is to apply skills that I have learned in writing html. I will use the boilerplate template which I have memorized 
 to start off the main page, and I will write various elements (and most likeley some attributes) which will make up
